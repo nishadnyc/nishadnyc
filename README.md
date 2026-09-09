@@ -1,6 +1,6 @@
 <div align="center">
 
-![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=NishadNYC&theme=%7B%22backgroundColor%22%3A%22%23000000%22%2C%22textColor%22%3A%22%23fef3c7%22%2C%22accentColor%22%3A%22%23407cdd%22%2C%22borderColor%22%3A%22%2392400e%22%2C%22waterColor%22%3A%22%23f59e0b%22%2C%22streakColor%22%3A%22%23dc2626%22%7D)
+![GitHub Streak](https://github-streak.nishad.top/api/card-with-avatar?username=nishadnyc&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D)
 
 </div>
 
