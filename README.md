@@ -19,3 +19,5 @@
 </p>
 
 ---
+
+I'm from New York. I come up with ideas, build them, and put them out there for people to use.
