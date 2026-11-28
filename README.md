@@ -1,6 +1,6 @@
 <div align="center">
 
-![GitHub Stats](https://nishadnyc-github-stats.vercel.app/api/card?size=md&accent=%238b00d6)
+![GitHub Stats](https://nishadnyc-github-stats.vercel.app/api/card?username=nishadnycsize=md&accent=%238b00d6)
 
 </div>
 
